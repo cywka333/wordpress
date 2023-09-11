@@ -1,2 +1,5 @@
 <?php
-echo "Hejka!";
+get_header();
+
+
+get_footer();
